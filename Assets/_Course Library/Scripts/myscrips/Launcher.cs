@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Launcher : MonoBehaviour
 {
-    [Header("bullet")]
+    public TVCanvascontrol tvControl;
     public GameObject projectilePrefab;
-    [Header("spawnpoint")]
     public GameObject spawnPoint;
     public void Shoot()
     {
         Instantiate(projectilePrefab, spawnPoint.transform.position, spawnPoint.transform.rotation);
+        tvControl.AddToScore();
     }
    
 }
