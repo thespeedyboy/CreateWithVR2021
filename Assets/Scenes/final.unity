@@ -2756,7 +2756,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 623c5848030e9674893bb3bb376834b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 3868041620509514277, guid: 699d8c25a6bf7b04993a2d0eddd150f2,
+  projectilePrefab: {fileID: 9093831001618171185, guid: 4974b2795b7628f4c878a49beb275e6f,
     type: 3}
   startPoint: {fileID: 2096740257}
   launchSpeed: 630
@@ -7990,7 +7990,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 623c5848030e9674893bb3bb376834b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 3868041620509514277, guid: 699d8c25a6bf7b04993a2d0eddd150f2,
+  projectilePrefab: {fileID: 9093831001618171185, guid: 4974b2795b7628f4c878a49beb275e6f,
     type: 3}
   startPoint: {fileID: 799237399}
   launchSpeed: 630
